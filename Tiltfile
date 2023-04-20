@@ -5,7 +5,6 @@ if os.name == "nt":
   gradlew = "gradlew.bat"
   expected_ref = "%EXPECTED_REF%"
   
-
 # Build
 custom_build(
     # Name of the container image
